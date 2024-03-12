@@ -23,9 +23,9 @@
 ### 数据集详情
 |图像来源	| #图像	|#图像描述	|#单轮对话	|#多轮对话|	#图文对
 | --- | ---: | ---: | ---: | ---: | ---: | 
-[万卷](https://github.com/opendatalab/WanJuan1.0)	|212,326|	215,790|	539,371	|65,005|	820,166
-[悟空](https://wukong-dataset.github.io/wukong-dataset/)|	66,570	|107,991|	107,991	|0|	215,982
-合计|	278,896|	323,781|	647,362|	65,005|	1,036,148
+[万卷](https://github.com/opendatalab/WanJuan1.0)	|212,326|	200,917|	539,371	|65,005|	805,293
+[悟空](https://wukong-dataset.github.io/wukong-dataset/)|	66,570	|106,368|	107,991	|0|	214,359
+合计|	278,896|	307,285|	647,362|	65,005|	1,019,652
 
 
 所有数据可以通过[这里](https://huggingface.co/datasets/jingzi/CIMD)下载 
