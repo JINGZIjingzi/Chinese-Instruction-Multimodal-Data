@@ -24,9 +24,9 @@ The dataset contains one million Chinese image-text pairs in total, including de
 ### Detailed information of the datasets
 | Image Source | #Images | #Captions | #Single-turn QA Pairs | #Multi-turn QA pairs | #Total Image-text Pairs |
 | --- | ---: | ---: | ---: | ---: | ---: | 
-[Wanjuan](https://github.com/opendatalab/WanJuan1.0) |212,326 | 215,790 | 539,371 | 65,005 | 820,166
-[Wukong](https://wukong-dataset.github.io/wukong-dataset/) | 66,570	| 107,991 | 107,991	| 0 | 215,982
-total	| 278,896 | 323,781 | 647,362 | 65,005 | 1,036,148
+[Wanjuan](https://github.com/opendatalab/WanJuan1.0)	|212,326|	200,917|	539,371	|65,005|	805,293
+[Wukong](https://wukong-dataset.github.io/wukong-dataset/)|	66,570	|106,368|	107,991	|0|	214,359
+total|	278,896|	307,285|	647,362|	65,005|	1,019,652
 
 
 All datasets can be downloaded [here](https://huggingface.co/datasets/jingzi/CIMD).
